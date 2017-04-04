@@ -7,9 +7,6 @@
   <Namespace>System.Threading.Tasks</Namespace>
 </Query>
 
-//hi :)
-//I have got some problems with completing the full programm in time, but I hope I will fix it before you start checking our homeworks
-//If you see this message - the programm isnt full, but you can see implementations of few ideas
 	class Program {
 		static void Main(string[] args) {
 			List<Parsable> test = new List<Parsable>();
